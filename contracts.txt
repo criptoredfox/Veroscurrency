@@ -1,0 +1,2 @@
++var address_owner = 0xACB0C84DbCa1d25Fe97D5513456b926AbD758dBe;
++var address_contract = 0xeDBaF3c5100302dCddA53269322f3730b1F0416d;
